@@ -1,0 +1,200 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://axutongxue.com/",
+            "path": "index.html",
+            "saved": true,
+            "size": 648362,
+            "children": [
+                {
+                    "url": "https://cbu01.alicdn.com/img/ibank/O1CN014Zp6O81Bs2giAqept_!!0-0-cib.jpg",
+                    "path": "img/O1CN014Zp6O81Bs2giAqept_!!0-0-cib.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cbu01.alicdn.com/img/ibank/O1CN01NxGNrc1Bs2gdyqC0g_!!0-0-cib.jpg",
+                    "path": "img/O1CN01NxGNrc1Bs2gdyqC0g_!!0-0-cib.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cbu01.alicdn.com/img/ibank/2020/019/752/23648257910.jpg",
+                    "path": "img/23648257910.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cbu01.alicdn.com/img/ibank/2020/492/831/23747138294.jpg",
+                    "path": "img/23747138294.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://zya.ys168.com/f_zy/tp/ml/t01.gif",
+                    "path": "img/t01.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://zya.ys168.com/f_zy/tp/ml/mll1.gif",
+                    "path": "img/mll1.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://zya.ys168.com/f_zy/tp/wjlx/wj.gif",
+                    "path": "img/wj.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://zya.ys168.com/f_zy/tp/wjlx/url.gif",
+                    "path": "img/url.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://zya.ys168.com/f_zy/tp/wjlx/jpg.gif",
+                    "path": "img/jpg.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://img.alicdn.com/imgextra/i4/2793632751/O1CN01tW4VkT1WC0EIWI7aD_!!2793632751.png",
+                    "path": "img/O1CN01tW4VkT1WC0EIWI7aD_!!2793632751.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://img.alicdn.com/imgextra/i3/2793632751/O1CN01mLbXxL1WC0ELPqQN0_!!2793632751.png",
+                    "path": "img/O1CN01mLbXxL1WC0ELPqQN0_!!2793632751.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/gh/axutongxue/axutongxue.github.io@main/cdn/jquery.js",
+                    "path": "js/jquery.js",
+                    "saved": true,
+                    "size": 287630,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/gh/axutongxue/axutongxue.github.io@main/cdn/ys168.css",
+                    "path": "css/ys168.css",
+                    "saved": true,
+                    "size": 10583,
+                    "children": [
+                        {
+                            "url": "https://cdn.jsdelivr.net/f_zy/tp/cur/edit1.cur",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/f_zy/tp/jt1.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/f_zy/tp/jt2.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/f_zy/tp/jt3.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/gh/axutongxue/axutongxue.github.io@main/cdn/ccls.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/f_zy/tp/line_yy1.gif",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://cdn.jsdelivr.net/f_zy/tp/ysbt.gif",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://axutongxue.com/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "axutongxue-com-n504dkdg",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://cdn.jsdelivr.net/gh/axutongxue/axutongxue.github.io@main/cdn/ys168.css",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "http://axutongxue.com/",
+            "statusCode": 200,
+            "headers": {
+                "server": "AliyunOSS",
+                "date": "Tue, 24 Aug 2021 06:13:22 GMT",
+                "content-type": "text/html",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "x-oss-request-id": "61248E02051F6834312AB700",
+                "last-modified": "Fri, 20 Aug 2021 11:16:09 GMT",
+                "x-oss-object-type": "Normal",
+                "x-oss-hash-crc64ecma": "2068988184580100261",
+                "x-oss-storage-class": "Standard",
+                "content-md5": "MLv+tJIeNF0wXFQGNm1ZWA==",
+                "x-oss-server-time": "1"
+            }
+        },
+        "time": {
+            "start": "2021-08-24T06:13:22.548Z",
+            "end": "2021-08-24T06:13:42.768Z"
+        },
+        "remark": [],
+        "ip": "47.75.19.4",
+        "url": "http://axutongxue.com/",
+        "main": "index.html",
+        "domain": "axutongxue.com",
+        "origin": "http://axutongxue.com",
+        "totalSize": "947 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "http://axutongxue.com/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
